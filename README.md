@@ -6,4 +6,5 @@ Functional group identification using vibrational spectroscopy and other spectro
 - Experimental: KnowItAll.
 
 ## Model:
-- Transformer
+- Transformer, with cross-attention first and self-attention next.
+  
