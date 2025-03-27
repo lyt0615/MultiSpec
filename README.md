@@ -1,0 +1,9 @@
+# MultiSpec
+Functional group identification using vibrational spectroscopy and other spectroscopic methods.
+
+## Dataset
+- Simulated: QM9S Raman and IR.
+- Experimental: KnowItAll.
+
+## Model:
+- Transformer
