@@ -7,4 +7,4 @@ Functional group identification using vibrational spectroscopy and other spectro
 
 ## Model:
 - Transformer, with cross-attention first and self-attention next.
-![](1743065369836.jpg "Model architecture")
+![](1743066016403.png "Model architecture")
